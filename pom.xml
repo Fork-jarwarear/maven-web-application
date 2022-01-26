@@ -98,14 +98,14 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>facebook-releases Nexus Repository</name>
-	      <url>http://3.110.88.245:9652/repository/facebook-release/</url>
+	      <name>thauti-releases Nexus Repository</name>
+	      <url>http://3.6.89.225:8081/repository/thauti-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>facebook-snapshot Nexus Repository </name>
-	      <url>http://3.110.88.245:9652/repository/facebook-snapshot/</url>
+	      <name>thauti-snapshot Nexus Repository </name>
+	      <url>http://3.6.89.225:8081/repository/thauti-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
