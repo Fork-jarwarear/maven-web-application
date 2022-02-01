@@ -21,7 +21,7 @@
 		<spring.version>5.1.2.RELEASE</spring.version>
 		<junit.version>4.11</junit.version>
 		<log4j.version>1.2.17</log4j.version>
-		<sonar.host.url>http://13.234.34.219:9000/</sonar.host.url>
+		<sonar.host.url>http://13.232.146.98:9000/</sonar.host.url>
                 <sonar.login>admin</sonar.login>
 		<sonar.password>Aws@0257</sonar.password>
              
@@ -99,13 +99,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>thauti-dev-releases Nexus Repository</name>
-	      <url>http://3.6.89.225:8081/repository/thauti-dev-release/</url>
+	      <url>http://3.110.86.21:8081/repository/thauti-dev-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>thauti-dev-snapshot Nexus Repository </name>
-	      <url>http://3.6.89.225:8081/repository/thauti-dev-snapshot/</url>
+	      <url>http://3.110.86.21:8081/repository/thauti-dev-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
